@@ -1,0 +1,36 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"Ansible",
+		"BracketHighlighter",
+		"CSS Unminifier",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"Gutter Color",
+		"HTML-CSS-JS Prettify",
+		"Inc-Dec-Value",
+		"Increment Selection",
+		"jQuery",
+		"JSHint",
+		"LiveStyle",
+		"LoremIpsum",
+		"Markdown Extended",
+		"Modific",
+		"MultiEditUtils",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray",
+		"Vagrant"
+	]
+}
